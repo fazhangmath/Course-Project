@@ -1,1 +1,1 @@
-# Implementation of <Dropout Training as Adaptive Regularization>
+# Implementation of "Dropout Training as Adaptive Regularization"
