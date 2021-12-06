@@ -1,1 +1,1 @@
-# Course-Project
+# Implementation of <Dropout Training as Adaptive Regularization>
